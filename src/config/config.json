@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "craftsmon",
+    "password": "craftsmon",
+    "database": "todo_mh",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "craftsmon",
+    "password": "craftsmon",
+    "database": "todo_mh",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "craftsmon",
+    "password": "craftsmon",
+    "database": "todo_mh",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
